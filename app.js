@@ -24,11 +24,13 @@ function agregarAmigo() {
     
     
 };
-
+//vacia la caja de texto
 function limpiarCaja() {
    document.getElementById('amigo').value = '';
+   document.getElementById('amigo').focus();
 }
 
+//Agrega los amigos a la lista para sortear
 function actualizarListaAmigos() {
     let nuevoAmigo;
     listaAmigos.innerHTML = '';
@@ -40,6 +42,7 @@ function actualizarListaAmigos() {
     }
 };
 
+//Elegir un amigo al azar de la lista
 function sortearAmigo(){
     let indiceAmigo = Math.floor(Math.random()* nombreAmigos.length);
     console.log(indiceAmigo);
