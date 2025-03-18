@@ -12,7 +12,7 @@
 
 ![Lista de amigos ingresados](https://github.com/user-attachments/assets/aa5bff07-c8a1-4906-80cd-4bdd7a26c76f)
 
-<p>Una vez agregad la totalidad de amigos deseados haga click en el botón sorter amigo para realizar el sorteo</p>
+<p>Una vez agregados la totalidad de amigos deseados haga click en el botón sorter amigo para realizar el sorteo</p>
 
 ![Boton Sortear](https://github.com/user-attachments/assets/32e737c1-c46f-4761-be83-0ca9323de7c9)
 
